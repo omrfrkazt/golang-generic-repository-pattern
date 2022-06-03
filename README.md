@@ -1,2 +1,2 @@
-# golang-generic-repository-pattern
+# Golang | Generic Repository Pattern
 Golang | Generic Repository Pattern
